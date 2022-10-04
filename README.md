@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabe</h1>
-<h3 align="center">A passionate backend developer with interest in Robotics, Automation and Software Development</h3>
+<h1 align="left">Hello 👋, I'm Gabe</h1>
+<h3 align="left">A passionate backend developer with interest in Robotics, Automation and Software Development</h3>
 
 - 🔭 I’m currently working on **Discord Bots and OpenCV**
 
